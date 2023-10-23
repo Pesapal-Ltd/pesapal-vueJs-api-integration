@@ -1,0 +1,2 @@
+// on payment completion, you will be redirected here and orderNotificationType, orderTrackingId and orderMerchantReference 
+// will be passed as Get queries to this url. Use the ordertracking to check for the transaction status.
